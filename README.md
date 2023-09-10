@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Singh</h1>
 <h3 align="center">🚀 Computer Science undergrad passionate about tech and skilled problem solving. 2nd year at Chandigarh University. Proficient in Machine Learning, Deep Learning, Computer Vision, NLP, Data Science. Currently mastering Full Stack Web Dev (MERN stack) while enhancing other skills. Active IEEE CUSB and CSI member. Aspiring Software Developer. Let's connect!</h3>
+<img align="right" alt="Coding" width="400" src="https://2.bp.blogspot.com/-JxjJXkxXW70/V6Kg3222mEI/AAAAAAAAivA/oZNB9cNU9vIH-xaWWpcoho-KGXqDzRwiACPcB/s1600/Omake%2BGif%2BAnime%2B-%2BMob%2BPsycho%2B100%2B-%2BEpisode%2B4%2B-%2BReigen%2BKeyboard%2BMash.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshsinghks&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshsinghks" /> </p>
 
