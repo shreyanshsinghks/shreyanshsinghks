@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Singh</h1>
 <div align="center"> <img src="banner.png"> </div>
-<h3 align="center">🚀 Computer Science undergrad passionate about tech and skilled problem solving. 2nd year at Chandigarh University. Proficient in Machine Learning, Deep Learning, Computer Vision, NLP, Data Science. Currently mastering Full Stack Web Dev (MERN stack) while enhancing other skills. Active IEEE CUSB and CSI member. Aspiring Software Developer. Let's connect!</h3>
+<h3 align="center">🚀 Computer Science undergrad passionate about tech and skilled problem solving. 2nd year at Chandigarh University. Proficient in Machine Learning, Deep Learning, Computer Vision, NLP, Data Science. Currently mastering Android Development (Jetpack Compose) while enhancing other skills. Active IEEE CUSB and CSI member. Aspiring Software Developer. Let's connect!</h3>
 <br><br>
 <img align="right" alt="Coding" width="400" src="anime.gif" style="border-radius: 50%;">
 
