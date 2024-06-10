@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshsinghks&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshsinghks" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing, Computer Vision, Web Development**
+- 🌱 I’m currently learning **Natural Language Processing, Computer Vision, Android Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shreyanshsinghks](https://github.com/shreyanshsinghks)
 
