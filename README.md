@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Singh</h1>
-<div align="center"> <img src="banner.png"> </div>
+<div align="center"> <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKlX9KsflXWTxKIbehVPdT6wc7U_dPnl2wp0vmJbVpQs1-VRt0RNf8jts4oVrhszCbjHut1tM-C2RFs_3uFgM_jL2Tz6d8TywV8V9uVRAa8EOZQu2Jsz5qpHc0BnVhqIE3pWsjSIDV7uQ/s0/Android-Compose-1.0-header-v2.png"> </div>
 <h3 align="center">🚀 Computer Science undergrad passionate about tech and skilled problem solving. 2nd year at Chandigarh University. Proficient in Machine Learning, Deep Learning, Computer Vision, NLP, Data Science. Currently mastering Android Development (Jetpack Compose) while enhancing other skills. Active IEEE CUSB and CSI member. Aspiring Software Developer. Let's connect!</h3>
 <br><br>
 <img align="right" alt="Coding" width="400" src="anime.gif" style="border-radius: 50%;">
