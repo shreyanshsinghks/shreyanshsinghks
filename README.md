@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Shreyansh Singh's World 🌟</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2fa7b17a-2829-446e-8dd7-6e6a5e89094f" alt="Profile Banner" width="80%" />
+  <img src="https://github.com/user-attachments/assets/2fa7b17a-2829-446e-8dd7-6e6a5e89094f" alt="Profile Banner" width="100%" />
 </p>
 
 <h3 align="center">
