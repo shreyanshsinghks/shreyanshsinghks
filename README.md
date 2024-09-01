@@ -8,7 +8,13 @@
 
 <br><br>
 
-<img align="right" alt="Coding" width="400" src="anime.gif" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<!-- Adjusted GIFs placement to align with the previous layout -->
+<div style="position: relative;">
+  <div style="position: absolute; right: 0; top: 0;">
+    <img alt="Coding GIF" width="200" src="https://c.tenor.com/vORI9e-AqoUAAAAC/tenor.gif" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 10px;">
+    <img alt="Coding WebP" width="200" src="https://i.giphy.com/3o7bul4bNw60uhhQyI.webp" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
+</div>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shreyanshsinghks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
