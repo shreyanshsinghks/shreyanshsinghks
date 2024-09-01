@@ -8,7 +8,8 @@
 
 <br><br>
 
-<img align="right" alt="Coding" width="400" src="anime.gif" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/vORI9e-AqoUAAAAC/tenor.gif" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); padding-left: 15px;">
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shreyanshsinghks&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
