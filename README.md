@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **shreyanshsinghks@gmail.com**
 
-- 📄 Here's my resume [View Resume](https://drive.google.com/file/d/1hYu--7SqmSUKIwOgyKo7aVWVwRXnyguY/view?usp=sharing)
+- 📄 Here's my resume [View Resume](https://drive.google.com/file/d/1Hbt-gEIwb6KIisf8tr9dD8Plv8d_ag58/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
